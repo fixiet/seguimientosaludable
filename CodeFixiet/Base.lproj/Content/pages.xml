@@ -1,0 +1,61 @@
+<beacondo>
+	<section>
+		<id><![CDATA[Comunidad]]></id>
+		<title><![CDATA[Comunidad]]></title>
+
+		<rightButton>
+			<title><![CDATA[]]></title>
+			<image><![CDATA[iconSearch.png]]></image>
+			<link type="search"><![CDATA[]]></link>
+		</rightButton>
+
+		<pages>
+			<page>
+				<id><![CDATA[Inicio]]></id>
+				<ean><![CDATA[]]></ean>
+				<title><![CDATA[Primer Contacto]]></title>
+				<price><![CDATA[Primer Contacto]]></price>
+				<titleImage><![CDATA[]]></titleImage>
+				<thumbnail><![CDATA[primer_conta.png]]></thumbnail>
+				<thumbnailFromHeader><![CDATA[0]]></thumbnailFromHeader>
+				<content><![CDATA[]]></content>
+
+				<contentSource><![CDATA[web]]></contentSource>
+
+				<contentTemplate><![CDATA[pageTemplate.html]]></contentTemplate>
+
+				<header type="carousel" height="180" pagingDots="0">
+				</header>
+		<rightButton>
+			<title><![CDATA[]]></title>
+			<image><![CDATA[]]></image>
+			<link type="nothing"><![CDATA[]]></link>
+		</rightButton>
+
+			</page>
+			<page>
+				<id><![CDATA[Ciudadano]]></id>
+				<ean><![CDATA[]]></ean>
+				<title><![CDATA[Seguimiento]]></title>
+				<price><![CDATA[Seguimiento]]></price>
+				<titleImage><![CDATA[]]></titleImage>
+				<thumbnail><![CDATA[agenda_tn copia.png]]></thumbnail>
+				<thumbnailFromHeader><![CDATA[0]]></thumbnailFromHeader>
+				<content><![CDATA[http://seguimientosaludable.xqred.com///5index_visitante.html]]></content>
+
+				<contentSource><![CDATA[web]]></contentSource>
+
+				<contentTemplate><![CDATA[pageTemplate.html]]></contentTemplate>
+
+				<header type="carousel" height="180" pagingDots="0">
+				</header>
+		<rightButton>
+			<title><![CDATA[]]></title>
+			<image><![CDATA[]]></image>
+			<link type="nothing"><![CDATA[]]></link>
+		</rightButton>
+
+			</page>
+		</pages>
+	</section>
+</beacondo>

@@ -1,0 +1,168 @@
+<beacondo>
+	<screens>
+		<screen>
+			<id><![CDATA[Inicio]]></id>
+			<title><![CDATA[Inicio]]></title>
+			<titleImage><![CDATA[]]></titleImage>
+			<icon><![CDATA[iconHome.png]]></icon>
+
+			<backgroundImage><![CDATA[]]></backgroundImage>
+
+			<backgroundColor><![CDATA[bababaff]]></backgroundColor>
+
+			<leftButton>
+				<title><![CDATA[]]></title>
+				<image><![CDATA[Untitled-1.png]]></image>
+				<link type="emailSupport"><![CDATA[]]></link>
+			</leftButton>
+
+			<rightButton>
+				<title><![CDATA[]]></title>
+				<image><![CDATA[iconSearch.png]]></image>
+				<link type="search"><![CDATA[]]></link>
+			</rightButton>
+
+			<layout>
+				<item type="row" height="225">
+					<backgroundImage><![CDATA[servicio_fondo.png]]></backgroundImage>
+					<backgroundColor><![CDATA[55b0acff]]></backgroundColor>
+					<thumbnail><![CDATA[]]></thumbnail>
+					<title><![CDATA[Validar Usuario]]></title>
+					<titleFont><![CDATA[HelveticaNeue-Thin]]></titleFont>
+					<titleSize><![CDATA[20]]></titleSize>
+					<titleAlignment><![CDATA[right]]></titleAlignment>
+					<titleColor><![CDATA[000000ff]]></titleColor>
+					<subtitle><![CDATA[Ingreso Plataforma]]></subtitle>
+					<subtitleFont><![CDATA[HelveticaNeue-Light]]></subtitleFont>
+					<subtitleSize><![CDATA[14]]></subtitleSize>
+					<subtitleAlignment><![CDATA[right]]></subtitleAlignment>
+					<subtitleColor><![CDATA[000000ff]]></subtitleColor>
+					<useDefaultFonts><![CDATA[1]]></useDefaultFonts>
+					<link type="url"><![CDATA[http://seguimientosaludable.xqred.com/validar_usuario/]]></link>
+					<showsArrow>1</showsArrow>
+				</item>
+				<item type="row" height="220">
+					<backgroundImage><![CDATA[constancia_fondo.png]]></backgroundImage>
+					<backgroundColor><![CDATA[31648bff]]></backgroundColor>
+					<thumbnail><![CDATA[]]></thumbnail>
+					<title><![CDATA[Visitante]]></title>
+					<titleFont><![CDATA[HelveticaNeue-Thin]]></titleFont>
+					<titleSize><![CDATA[20]]></titleSize>
+					<titleAlignment><![CDATA[right]]></titleAlignment>
+					<titleColor><![CDATA[000000ff]]></titleColor>
+					<subtitle><![CDATA[Consulta Centros Code]]></subtitle>
+					<subtitleFont><![CDATA[HelveticaNeue-Light]]></subtitleFont>
+					<subtitleSize><![CDATA[14]]></subtitleSize>
+					<subtitleAlignment><![CDATA[right]]></subtitleAlignment>
+					<subtitleColor><![CDATA[000000ff]]></subtitleColor>
+					<useDefaultFonts><![CDATA[1]]></useDefaultFonts>
+					<link type="url"><![CDATA[http://seguimientosaludable.xqred.com/5index_visitante.html]]></link>
+					<showsArrow>1</showsArrow>
+				</item>
+				<item type="row" height="0">
+					<backgroundImage><![CDATA[]]></backgroundImage>
+					<backgroundColor><![CDATA[00000000]]></backgroundColor>
+					<thumbnail><![CDATA[]]></thumbnail>
+					<title><![CDATA[]]></title>
+					<titleFont><![CDATA[HelveticaNeue-Thin]]></titleFont>
+					<titleSize><![CDATA[20]]></titleSize>
+					<titleAlignment><![CDATA[left]]></titleAlignment>
+					<titleColor><![CDATA[000000ff]]></titleColor>
+					<subtitle><![CDATA[]]></subtitle>
+					<subtitleFont><![CDATA[HelveticaNeue-Light]]></subtitleFont>
+					<subtitleSize><![CDATA[14]]></subtitleSize>
+					<subtitleAlignment><![CDATA[left]]></subtitleAlignment>
+					<subtitleColor><![CDATA[000000ff]]></subtitleColor>
+					<useDefaultFonts><![CDATA[1]]></useDefaultFonts>
+					<link type="nothing"><![CDATA[]]></link>
+					<showsArrow>0</showsArrow>
+				</item>
+				<item type="row" height="0">
+					<backgroundImage><![CDATA[]]></backgroundImage>
+					<backgroundColor><![CDATA[00000000]]></backgroundColor>
+					<thumbnail><![CDATA[]]></thumbnail>
+					<title><![CDATA[]]></title>
+					<titleFont><![CDATA[HelveticaNeue-Thin]]></titleFont>
+					<titleSize><![CDATA[20]]></titleSize>
+					<titleAlignment><![CDATA[left]]></titleAlignment>
+					<titleColor><![CDATA[000000ff]]></titleColor>
+					<subtitle><![CDATA[]]></subtitle>
+					<subtitleFont><![CDATA[HelveticaNeue-Light]]></subtitleFont>
+					<subtitleSize><![CDATA[14]]></subtitleSize>
+					<subtitleAlignment><![CDATA[left]]></subtitleAlignment>
+					<subtitleColor><![CDATA[000000ff]]></subtitleColor>
+					<useDefaultFonts><![CDATA[1]]></useDefaultFonts>
+					<link type="nothing"><![CDATA[]]></link>
+					<showsArrow>0</showsArrow>
+				</item>
+				<item type="row" height="0">
+					<backgroundImage><![CDATA[]]></backgroundImage>
+					<backgroundColor><![CDATA[00000000]]></backgroundColor>
+					<thumbnail><![CDATA[]]></thumbnail>
+					<title><![CDATA[]]></title>
+					<titleFont><![CDATA[HelveticaNeue-Thin]]></titleFont>
+					<titleSize><![CDATA[20]]></titleSize>
+					<titleAlignment><![CDATA[left]]></titleAlignment>
+					<titleColor><![CDATA[000000ff]]></titleColor>
+					<subtitle><![CDATA[]]></subtitle>
+					<subtitleFont><![CDATA[HelveticaNeue-Light]]></subtitleFont>
+					<subtitleSize><![CDATA[14]]></subtitleSize>
+					<subtitleAlignment><![CDATA[left]]></subtitleAlignment>
+					<subtitleColor><![CDATA[000000ff]]></subtitleColor>
+					<useDefaultFonts><![CDATA[1]]></useDefaultFonts>
+					<link type="nothing"><![CDATA[]]></link>
+					<showsArrow>0</showsArrow>
+				</item>
+				<item type="row" height="0">
+					<backgroundImage><![CDATA[]]></backgroundImage>
+					<backgroundColor><![CDATA[00000000]]></backgroundColor>
+					<thumbnail><![CDATA[]]></thumbnail>
+					<title><![CDATA[]]></title>
+					<titleFont><![CDATA[HelveticaNeue-Thin]]></titleFont>
+					<titleSize><![CDATA[20]]></titleSize>
+					<titleAlignment><![CDATA[left]]></titleAlignment>
+					<titleColor><![CDATA[000000ff]]></titleColor>
+					<subtitle><![CDATA[]]></subtitle>
+					<subtitleFont><![CDATA[HelveticaNeue-Light]]></subtitleFont>
+					<subtitleSize><![CDATA[14]]></subtitleSize>
+					<subtitleAlignment><![CDATA[left]]></subtitleAlignment>
+					<subtitleColor><![CDATA[000000ff]]></subtitleColor>
+					<useDefaultFonts><![CDATA[1]]></useDefaultFonts>
+					<link type="nothing"><![CDATA[]]></link>
+					<showsArrow>0</showsArrow>
+				</item>
+				<item type="row" height="0">
+					<backgroundImage><![CDATA[]]></backgroundImage>
+					<backgroundColor><![CDATA[00000000]]></backgroundColor>
+					<thumbnail><![CDATA[]]></thumbnail>
+					<title><![CDATA[]]></title>
+					<titleFont><![CDATA[HelveticaNeue-Thin]]></titleFont>
+					<titleSize><![CDATA[20]]></titleSize>
+					<titleAlignment><![CDATA[left]]></titleAlignment>
+					<titleColor><![CDATA[000000ff]]></titleColor>
+					<subtitle><![CDATA[]]></subtitle>
+					<subtitleFont><![CDATA[HelveticaNeue-Light]]></subtitleFont>
+					<subtitleSize><![CDATA[14]]></subtitleSize>
+					<subtitleAlignment><![CDATA[left]]></subtitleAlignment>
+					<subtitleColor><![CDATA[000000ff]]></subtitleColor>
+					<useDefaultFonts><![CDATA[1]]></useDefaultFonts>
+					<link type="nothing"><![CDATA[]]></link>
+					<showsArrow>0</showsArrow>
+				</item>
+			</layout>
+		</screen>
+	</screens>
+
+	<beacons>
+		<beacon>
+			<uuid><![CDATA[B9407F30-F5F8-466E-AFF9-25556B57FE6D]]></uuid>
+			<majorValue>51710</majorValue>
+			<minorValue>22867</minorValue>
+			<rangeLimit>1</rangeLimit>
+			<link type="message"><![CDATA[]]></link>
+			<prompt><![CDATA[Bienvenido]]></prompt>
+			<sound><![CDATA[]]></sound>
+			<frequency>once</frequency>
+		</beacon>
+	</beacons>
+</beacondo>
